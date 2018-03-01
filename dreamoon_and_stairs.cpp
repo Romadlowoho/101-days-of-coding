@@ -1,4 +1,4 @@
-//
+//http://codeforces.com/problemset/problem/476/A
 #include <iostream>
 using namespace std;
 
